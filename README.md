@@ -1,1 +1,4 @@
-# software-security
+# Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+  Artemis financial is a consulting company that develops individualized financial plans for their customers. The financial plans include savings, retirement, investments, and insurance. Artemis Financial wants to modernize their operations. As a crucial part of the success of their custom software, they also want to use the most current and effective software security. Artemis Financial has a public web interface. We work for a software engineering company named Global Rain. Artemis had hird Global Rain to protect their client data and financial information.
+
+# What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
